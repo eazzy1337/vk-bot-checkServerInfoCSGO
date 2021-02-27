@@ -9,4 +9,3 @@ Install all modules (Use yarn or npm)
 
 # How to start p2.
   add the VK token to the file cfg.js and install all required modules
-  node bot.js
